@@ -13,6 +13,9 @@
 ![добавили строчку](https://github.com/user-attachments/assets/a4aedc4d-f906-42c0-b050-86a309540ada)
 
 После пришлось немного помучаться. Для подключения о своего компа, как оказало, нужно разрешить удаленные подключения по имени к кластеру (отдельной машине). 
+Создал сертификат, подкинул его в бобра. 
+mkdir $HOME\.postgresql; curl.exe -o $HOME\.postgresql\root.crt https://storage.yandexcloud.net/cloud-certs/CA.pem
+
 Но в конечном счете все получилось.
 
 ![добавление возможности всех подключений](https://github.com/user-attachments/assets/271aba2a-c5c5-4d03-914d-0dc3be592e10)
