@@ -36,3 +36,6 @@
 Ну и попробовал установить pg_probackup или wal-g и снова траблы.. скачать не удалось
 
 ![настройка бекапов не удалась](https://github.com/user-attachments/assets/d762ec5b-6fa4-4cde-880d-8c82ca261529)
+
+Файлик со всеми манипуляциями подготовленный под "мои реалии"
+[новый 5.txt](https://github.com/user-attachments/files/18390801/5.txt)
