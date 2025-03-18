@@ -3,6 +3,8 @@
 [haproxy.txt](https://github.com/user-attachments/files/19315660/haproxy.txt)
 [patroni yml + настройки PG3.txt](https://github.com/user-attachments/files/19315661/patroni.yml.%2B.PG3.txt)
 [patroni yml + настройки PG2.txt](https://github.com/user-attachments/files/19315662/patroni.yml.%2B.PG2.txt)
+[etcd.txt](https://github.com/user-attachments/files/19324946/etcd.txt)
+[Спиок команд для установки pg+patroni.txt](https://github.com/user-attachments/files/19324985/pg%2Bpatroni.txt)
 
 Презентация:
 [Защита Рыбаков.pptx](https://github.com/user-attachments/files/19324232/default.pptx)
